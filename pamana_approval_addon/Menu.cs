@@ -8,31 +8,55 @@ namespace pamana_approval_addon
     class Menu
     {
         public void AddMenuItems()
-        {
-            SAPbouiCOM.Menus oMenus = null;
-            SAPbouiCOM.MenuItem oMenuItem = null;
+        {   
 
-            oMenus = Application.SBO_Application.Menus;
+            //ORIG POSTION
+            //SAPbouiCOM.Menus oMenus = null;
+            //SAPbouiCOM.MenuItem oMenuItem = null;
 
-            SAPbouiCOM.MenuCreationParams oCreationPackage = null;
-            oCreationPackage = ((SAPbouiCOM.MenuCreationParams)(Application.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_MenuCreationParams)));
-            oMenuItem = Application.SBO_Application.Menus.Item("2304"); // moudles'
+            //oMenus = Application.SBO_Application.Menus;
 
-            oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
-            oCreationPackage.UniqueID = "pamana_approval_addon";
-            oCreationPackage.String = "Purchase Request Approval";
-            oCreationPackage.Enabled = true;
-            oCreationPackage.Position = 999;
+            //SAPbouiCOM.MenuCreationParams oCreationPackage = null;
+            //oCreationPackage = ((SAPbouiCOM.MenuCreationParams)(Application.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_MenuCreationParams)));
+            //oMenuItem = Application.SBO_Application.Menus.Item("2304"); // moudles'
 
-            oMenus = oMenuItem.SubMenus;
+            //oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
+            //oCreationPackage.UniqueID = "pamana_approval_addon";
+            //oCreationPackage.String = "Purchase Request Approval";
+            //oCreationPackage.Enabled = true;
+            //oCreationPackage.Position = 999;
+
+            //oMenus = oMenuItem.SubMenus;
 
             try
             {
-                //  If the manu already exists this code will fail
+                //[08MAY2026]
+                SAPbouiCOM.Menus oMenus = null;
+                SAPbouiCOM.MenuItem oMenuItem = null;
+
+                oMenus = Application.SBO_Application.Menus;
+
+                SAPbouiCOM.MenuCreationParams oCreationPackage = null;
+                oCreationPackage = ((SAPbouiCOM.MenuCreationParams)(Application.SBO_Application.CreateObject(SAPbouiCOM.BoCreatableObjectType.cot_MenuCreationParams)));
+                oMenuItem = Application.SBO_Application.Menus.Item("2304"); // moudles'
+
+                oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
+                oCreationPackage.UniqueID = "pamana_approval_addon";
+                oCreationPackage.String = "Purchase Request Approval";
+                oCreationPackage.Enabled = true;
+                oCreationPackage.Position = 999;
+
+                oMenus = oMenuItem.SubMenus;
+
+                
+                // If the manu already exists this code will fail        --ORIG
                 oMenus.AddEx(oCreationPackage);
+
             }
             catch (Exception e)
             {
+                Logger.WriteToFile("ERROR", "AddMenuItems", e.Message);     //ADD ERROR LOG [08MAY2026]
+                Application.SBO_Application.StatusBar.SetText(e.ToString(), SAPbouiCOM.BoMessageTime.bmt_Short, SAPbouiCOM.BoStatusBarMessageType.smt_Error); //ADD ERROR LOG [17APR2026]
 
             }
 
@@ -73,6 +97,8 @@ namespace pamana_approval_addon
                 Application.SBO_Application.MessageBox(ex.ToString(), 1, "Ok", "", "");
             }
         }
+
+
 
     }
 }
