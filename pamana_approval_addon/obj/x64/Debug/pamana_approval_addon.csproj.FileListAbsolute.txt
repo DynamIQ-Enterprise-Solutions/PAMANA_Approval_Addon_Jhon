@@ -116,3 +116,136 @@ C:\Users\ADMIN\Documents\GitHub\pamana_approval_addon\Approval_addon\pamana_appr
 C:\Users\ADMIN\Documents\GitHub\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.pdb
 C:\Users\ADMIN\Documents\GitHub\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
 C:\Users\ADMIN\Documents\GitHub\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\CrystalDecisions.Shared.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\REPORT\PR.rpt
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csprojAssemblyReference.cache
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CoreCompileInputs.cache
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CopyComplete
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\REPORT\PR.rpt
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CoreCompileInputs.cache
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CopyComplete
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 2\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CoreCompileInputs.cache
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\REPORT\PR.rpt
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.dll
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll.config
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.pdb
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.xml
+C:\xDynamiq_DEV\Project Codes\AddOn SourceCode\PAMANA\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CopyComplete
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\REPORT\PR.rpt
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe.config
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.pdb
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\CrystalDecisions.Shared.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\stdole.dll
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.pdb
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MailKit.dll.config
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.pdb
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\MimeKit.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Buffers.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Formats.Asn1.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Memory.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\bin\x64\Debug\System.ValueTuple.xml
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CoreCompileInputs.cache
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.csproj.CopyComplete
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.exe
+C:\IQLINK PWC\pamana_approval_addon - 3\Approval_addon\pamana_approval_addon\obj\x64\Debug\pamana_approval_addon.pdb
