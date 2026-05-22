@@ -21,10 +21,18 @@ namespace pamana_approval_addon
         public static void GeneratePDF(string reportPath, string pdfOutputPath, string docEntry, string report_name)
         {
             // Create an instance of ReportDocument
-            ReportDocument reportDocument = new ReportDocument();
-            string output_file = string.Empty;
+            //ReportDocument reportDocument = new ReportDocument();
+            //string output_file = string.Empty;
+
+
             try
-            {              
+            {
+
+                // Create an instance of ReportDocument
+                ReportDocument reportDocument = new ReportDocument();
+                string output_file = string.Empty;
+
+
                 oCompany = new SAPbobsCOM.Company();
                 oCompany = (SAPbobsCOM.Company)Application.SBO_Application.Company.GetDICompany();
                 SAPbobsCOM.Recordset oGetReportCredentials = (SAPbobsCOM.Recordset)oCompany.GetBusinessObject(BoObjectTypes.BoRecordset);
@@ -103,6 +111,17 @@ namespace pamana_approval_addon
 
                 //Console.WriteLine("PDF generated successfully at: " + pdfOutputPath);
                 Application.SBO_Application.StatusBar.SetText("PDF generated successfully at: " + pdfOutputPath + "\\SUCCESS" + output_file, SAPbouiCOM.BoMessageTime.bmt_Short, SAPbouiCOM.BoStatusBarMessageType.smt_Success);
+
+
+
+                // [21MAY2026]
+                // Clean up resources.
+                reportDocument.Close();
+                reportDocument.Dispose();
+
+                System.IO.File.Copy(pdfOutputPath + output_file, pdfOutputPath + "\\SUCCESS" + output_file, true);
+                System.IO.File.Delete(pdfOutputPath + output_file);
+
             }
             catch (Exception ex)
             {
@@ -111,13 +130,18 @@ namespace pamana_approval_addon
             }
             finally
             {
-                // Clean up resources.
-                reportDocument.Close();
-                reportDocument.Dispose();
+                // Clean up resources.     //ORG
+                //reportDocument.Close();
+                //reportDocument.Dispose();
 
-                System.IO.File.Copy(pdfOutputPath + output_file, pdfOutputPath + "\\SUCCESS" + output_file, true);
-                System.IO.File.Delete(pdfOutputPath + output_file);
+                //System.IO.File.Copy(pdfOutputPath + output_file, pdfOutputPath + "\\SUCCESS" + output_file, true);
+                //System.IO.File.Delete(pdfOutputPath + output_file);
             }
+
+
+
         }
+
+
     }
 }
