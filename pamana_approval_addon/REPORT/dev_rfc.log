@@ -1,0 +1,10 @@
+
+**** Log file opened at 2025-06-18 11:59:12.637049 UTC+08:00 (China Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: C:\JOBS\VB PROJECTS\pamana_approval_addon\Approval_addon\pamana_approval_addon\REPORT, Program: crw64
+ Hardware: PC with Windows NT 12x AMD64 Level 6 (Mod 186 Step 3), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-DSPFKU7, IP address: 192.168.0.23, IPv6 address: fe80::b1cc:b919:33cb:9681
+
+2025-06-18 11:59:12.638036 [28224] >> Info entry
+	Did not find config file C:\JOBS\VB PROJECTS\pamana_approval_addon\Approval_addon\pamana_approval_addon\REPORT\sapnwrfc.ini.
