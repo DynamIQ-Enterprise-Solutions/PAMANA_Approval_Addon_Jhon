@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="DYNAMIQ ENTERPRISE SOLUTIONS INC." SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Approval Addon" ExtVersion="1.2.3" Contdata="" Partner="DYNAMIQ ENTERPRISE SOLUTIONS INC." DBType="MSSQL" ClientType="A">
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="DYNAMIQ ENTERPRISE SOLUTIONS INC." SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Approval Addon" ExtVersion="1.2.5" Contdata="" Partner="DYNAMIQ ENTERPRISE SOLUTIONS INC." DBType="MSSQL" ClientType="A">
   <Validity>
     <SBOCompatibility>
       <Version From="" To="" />
@@ -26,7 +26,7 @@
           <Files />
         </Uninstallation>
       </x86>
-      <x64 AddonExe="D:\GitHub\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe" AddonSig="">
+      <x64 AddonExe="C:\JOBS\VB PROJECTS\pamana_approval_addon\Approval_addon\pamana_approval_addon\bin\x64\Debug\pamana_approval_addon.exe" AddonSig="">
         <Installation>
           <Files>
             <File FileName="BouncyCastle.Cryptography.dll">
@@ -35,79 +35,10 @@
             <File FileName="BouncyCastle.Cryptography.xml">
               <Actions />
             </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.dll">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.ebus.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.fssl.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.Ssl.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.ZipLib.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Foundation.Logging.dll">
-              <Actions />
-            </File>
             <File FileName="CrystalDecisions.CrystalReports.Engine.dll">
               <Actions />
             </File>
-            <File FileName="CrystalDecisions.Enterprise.Framework.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.Enterprise.InfoStore.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.Enterprise.PluginManager.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ClientDoc.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommLayer.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommonControls.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommonObjectModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.Controllers.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CubeDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.DataDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.DataSetConversion.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ObjectFactory.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.Prompting.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ReportDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.XmlSerialize.dll">
-              <Actions />
-            </File>
             <File FileName="CrystalDecisions.Shared.dll">
-              <Actions />
-            </File>
-            <File FileName="log4net.dll">
               <Actions />
             </File>
             <File FileName="MailKit.dll">
@@ -192,12 +123,6 @@
               <Actions />
             </File>
             <File FileName="System.ValueTuple.xml">
-              <Actions />
-            </File>
-            <File FileName="DEV3\b1_shr\PR_Attachment\PR.rpt">
-              <Actions />
-            </File>
-            <File FileName="DEV3\b1_shr\PR_Attachment\SUCCESS\PR72.pdf">
               <Actions />
             </File>
             <File FileName="REPORT\PR.rpt">
@@ -213,79 +138,10 @@
             <File FileName="BouncyCastle.Cryptography.xml">
               <Actions />
             </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.dll">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.ebus.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.fssl.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.Ssl.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Enterprise.Sdk.ZipLib.netmodule">
-              <Actions />
-            </File>
-            <File FileName="BusinessObjects.Foundation.Logging.dll">
-              <Actions />
-            </File>
             <File FileName="CrystalDecisions.CrystalReports.Engine.dll">
               <Actions />
             </File>
-            <File FileName="CrystalDecisions.Enterprise.Framework.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.Enterprise.InfoStore.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.Enterprise.PluginManager.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ClientDoc.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommLayer.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommonControls.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CommonObjectModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.Controllers.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.CubeDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.DataDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.DataSetConversion.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ObjectFactory.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.Prompting.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.ReportDefModel.dll">
-              <Actions />
-            </File>
-            <File FileName="CrystalDecisions.ReportAppServer.XmlSerialize.dll">
-              <Actions />
-            </File>
             <File FileName="CrystalDecisions.Shared.dll">
-              <Actions />
-            </File>
-            <File FileName="log4net.dll">
               <Actions />
             </File>
             <File FileName="MailKit.dll">
@@ -370,12 +226,6 @@
               <Actions />
             </File>
             <File FileName="System.ValueTuple.xml">
-              <Actions />
-            </File>
-            <File FileName="DEV3\b1_shr\PR_Attachment\PR.rpt">
-              <Actions />
-            </File>
-            <File FileName="DEV3\b1_shr\PR_Attachment\SUCCESS\PR72.pdf">
               <Actions />
             </File>
             <File FileName="REPORT\PR.rpt">

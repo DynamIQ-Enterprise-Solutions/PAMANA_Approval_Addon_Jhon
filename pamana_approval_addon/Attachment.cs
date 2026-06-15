@@ -107,6 +107,8 @@ namespace pamana_approval_addon
             catch (Exception ex)
             {
                 // Handle any errors that might occur during report load or export.
+                Logger.WriteToFile("ERROR", "Attachment.GeneratePDF", ex.Message);
+                Logger.WriteToFile("ERROR", "Attachment.GeneratePDF", ex.Message);
                 Application.SBO_Application.StatusBar.SetText("Error generating PDF: " + ex.Message, SAPbouiCOM.BoMessageTime.bmt_Short, SAPbouiCOM.BoStatusBarMessageType.smt_Error);
             }
             finally

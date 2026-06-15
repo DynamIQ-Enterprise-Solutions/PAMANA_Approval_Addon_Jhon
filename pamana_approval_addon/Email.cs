@@ -14,17 +14,28 @@ namespace pamana_approval_addon
     {
         public static void CreateEmail(string message, string attachment_path = "C:\\RPT\\SUCCESS\\", string attachment_name = "")
         {
-            string smtp = string.Empty;
-            int port = 0;
-            string sender_email = string.Empty;
-            string sender_password = string.Empty;
-            string receiver_email = string.Empty;
 
-            SAPbobsCOM.Recordset oGetEmailInfo = (SAPbobsCOM.Recordset)oGlobalCompany.GetBusinessObject(BoObjectTypes.BoRecordset);
+            //ORIG
+            //string smtp = string.Empty;
+            //int port = 0;
+            //string sender_email = string.Empty;
+            //string sender_password = string.Empty;
+            //string receiver_email = string.Empty;
+
+            //SAPbobsCOM.Recordset oGetEmailInfo = (SAPbobsCOM.Recordset)oGlobalCompany.GetBusinessObject(BoObjectTypes.BoRecordset);
 
             try
             {
-               
+                //[15JUN2026] NEW PPOSITION
+                string smtp = string.Empty;
+                int port = 0;
+                string sender_email = string.Empty;
+                string sender_password = string.Empty;
+                string receiver_email = string.Empty;
+
+                SAPbobsCOM.Recordset oGetEmailInfo = (SAPbobsCOM.Recordset)oGlobalCompany.GetBusinessObject(BoObjectTypes.BoRecordset);
+
+
                 oGetEmailInfo.DoQuery("select * from [@DYN_EMAIL_CONFIG]");
 
                 if (oGetEmailInfo.RecordCount > 0)
@@ -76,17 +87,23 @@ namespace pamana_approval_addon
 
                 data.Dispose();
 
+                //[15JUN2026]
+                System.Runtime.InteropServices.Marshal.ReleaseComObject(oGetEmailInfo);
+                GC.Collect();
+
+
             }
             catch (Exception ex)
             {
                 Logger.WriteToFile("ERROR", "CreateEmail", ex.Message);
                 Application.SBO_Application.StatusBar.SetText(ex.Message, SAPbouiCOM.BoMessageTime.bmt_Short, SAPbouiCOM.BoStatusBarMessageType.smt_Error);
             }
-            finally
-            {
-                System.Runtime.InteropServices.Marshal.ReleaseComObject(oGetEmailInfo);
-                GC.Collect();
-            }
+            //finally
+            //{
+            //    System.Runtime.InteropServices.Marshal.ReleaseComObject(oGetEmailInfo);
+            //    GC.Collect();
+            //}
+
         }
     }
 }

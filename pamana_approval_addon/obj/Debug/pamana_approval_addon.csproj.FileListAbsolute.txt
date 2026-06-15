@@ -1,0 +1,2 @@
+C:\JOBS\VB PROJECTS\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\Debug\pamana_approval_addon.csprojAssemblyReference.cache
+C:\JOBS\VB PROJECTS\pamana_approval_addon\Approval_addon\pamana_approval_addon\obj\Debug\pamana_approval_addon.csproj.CoreCompileInputs.cache
